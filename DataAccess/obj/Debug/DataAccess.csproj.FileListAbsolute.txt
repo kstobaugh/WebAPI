@@ -1,0 +1,10 @@
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\jisaks9\documents\visual studio 2017\Projects\WebApplication1\DataAccess\obj\Debug\DataAccess.pdb
